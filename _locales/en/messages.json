@@ -1,0 +1,40 @@
+{
+  "extName": {
+    "message": "YT Transcript to Clipboard"
+  },
+  "extShortName": {
+    "message": "YT Transcript"
+  },
+  "extDescription": {
+    "message": "Copy YouTube video transcripts and details in one click, with optional timestamps. No manual transcript panel."
+  },
+  "actionTitle": {
+    "message": "Copy video transcript to clipboard"
+  },
+  "timestampMenu": {
+    "message": "Timestamps"
+  },
+  "copySuccess": {
+    "message": "Transcript copied ($COUNT$ characters)",
+    "placeholders": {
+      "COUNT": {
+        "content": "$1"
+      }
+    }
+  },
+  "invalidPage": {
+    "message": "Open a YouTube video page first"
+  },
+  "copyFailed": {
+    "message": "Could not copy to the clipboard"
+  },
+  "noTranscript": {
+    "message": "No captions available, or YouTube changed its transcript format"
+  },
+  "noTimestamp": {
+    "message": "Caption timing is unavailable"
+  },
+  "videoIdError": {
+    "message": "Could not identify the video"
+  }
+}

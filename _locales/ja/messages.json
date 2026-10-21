@@ -1,0 +1,40 @@
+{
+  "extName": {
+    "message": "YT Transcript to Clipboard"
+  },
+  "extShortName": {
+    "message": "YT Transcript"
+  },
+  "extDescription": {
+    "message": "YouTube動画の字幕と動画情報をワンクリックでコピー。タイムスタンプ切替対応。"
+  },
+  "actionTitle": {
+    "message": "字幕をクリップボードにコピー"
+  },
+  "timestampMenu": {
+    "message": "タイムスタンプ"
+  },
+  "copySuccess": {
+    "message": "字幕をコピーしました（$COUNT$文字）",
+    "placeholders": {
+      "COUNT": {
+        "content": "$1"
+      }
+    }
+  },
+  "invalidPage": {
+    "message": "YouTube の動画ページを開いてください"
+  },
+  "copyFailed": {
+    "message": "クリップボードへのコピーに失敗しました"
+  },
+  "noTranscript": {
+    "message": "字幕がありません、または YouTube 側の仕様で取得できません"
+  },
+  "noTimestamp": {
+    "message": "字幕の時刻情報を取得できませんでした"
+  },
+  "videoIdError": {
+    "message": "動画IDを確認できません"
+  }
+}
